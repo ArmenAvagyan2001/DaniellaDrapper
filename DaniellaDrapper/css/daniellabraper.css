@@ -1,0 +1,60 @@
+div.block2{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    color: black;
+}
+
+div.block1{
+    width: 100%;
+}
+
+a.nav-header{
+    font-size:36px;
+    color: black;
+}
+
+a.nav-header:visited{
+    color:black
+}
+
+ul li a{
+    font-weight: 500;
+    margin-left: 23px;
+}
+
+ul li a img{
+    width: 40px;
+}
+
+div.block{
+    display:contents;
+}
+
+div#my-carousel{
+    margin-top: 100px;
+}
+
+video{
+    width: 100%;
+}
+
+.a2{
+    background: red;
+    border-radius: 3px;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.a1{
+    padding-top: 30px;
+}
+
+p{
+    text-align: center;
+}
+
+div button img{
+    width: 300px;
+}
